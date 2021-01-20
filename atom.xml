@@ -6,7 +6,7 @@
   <link href="http://marocchino.net/atom.xml" rel="self"/>
   
   <link href="http://marocchino.net/"/>
-  <updated>2021-01-20T03:16:45.779Z</updated>
+  <updated>2021-01-20T03:58:09.559Z</updated>
   <id>http://marocchino.net/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Blog Recovery</title>
+    <link href="http://marocchino.net/2021/01/20/blog-recovery/"/>
+    <id>http://marocchino.net/2021/01/20/blog-recovery/</id>
+    <published>2021-01-20T03:38:27.000Z</published>
+    <updated>2021-01-20T03:58:09.559Z</updated>
+    
+    <content type="html"><![CDATA[<p>오랬동안 방치했더니 죽어있길레 짬짬히 시간내서 살림.</p><p>한 작업들은 다음과 같다.</p><ul><li>A record 변경: 예전에 설정했던 값이랑 바뀌어서 갱신 해줌 <a href="https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain">참고링크</a><ul><li>적용하고 반영되는데 반나절이상 걸려서 귀찮았다.</li></ul></li><li>publish 브랜치를 master에서 main으로 변경</li><li>레포이름을 marocchino.github.com -&gt; marocchino.net으로 변경<ul><li>이참에 dev도메인도 살까 싶음</li></ul></li><li>테마의 대상 레포 변경<ul><li>hexo 테마를 포크해서 폰트만 바꿔서쓰고 있었는데, 시큐리티 업뎃이 귀찮아서대량으로 레포지우다 포크떠논 레포도 실수로 지워버렸다가 복구하면서 그냥업스트림 바라보게 변경</li></ul></li><li>hexo 메어져 업데이트<ul><li>그냥 워닝만 고쳐주니 돌아감</li></ul></li><li>markdownlintrc -&gt; markdownlint.json<ul><li>이것도 메이져 업데이트하면서 설정 파일이 바뀐듯</li></ul></li></ul><p>살렸으니 당분간 이것저것 삽질해봐야지</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;오랬동안 방치했더니 죽어있길레 짬짬히 시간내서 살림.&lt;/p&gt;
+&lt;p&gt;한 작업들은 다음과 같다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A record 변경: 예전에 설정했던 값이랑 바뀌어서 갱신 해줌 &lt;a href=&quot;https://docs.github.com/en</summary>
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://marocchino.net/tags/hexo/"/>
+    
+    <category term="github page" scheme="http://marocchino.net/tags/github-page/"/>
+    
+  </entry>
   
   <entry>
     <title>id를 사용하는 컬럼을 저장하려면</title>

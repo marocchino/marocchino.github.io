@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://marocchino.net/2017/01/06/implicit-is-evil/</loc>
-    
-    <lastmod>2021-01-20</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://marocchino.net/2016/09/24/phoenix-and-webpack/</loc>
     
     <lastmod>2021-01-20</lastmod>
@@ -73,6 +66,13 @@
   
   <url>
     <loc>http://marocchino.net/2016/10/17/elm-from-elixir/</loc>
+    
+    <lastmod>2021-01-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marocchino.net/2017/01/06/implicit-is-evil/</loc>
     
     <lastmod>2021-01-20</lastmod>
     

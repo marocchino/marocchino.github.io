@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://marocchino.net/2021/02/23/contribute-to-brew/</loc>
+    
+    <lastmod>2021-02-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://marocchino.net/2017/01/20/tips-for-test/</loc>
     
     <lastmod>2021-01-27</lastmod>
@@ -88,7 +95,7 @@
 
   <url>
     <loc>http://marocchino.net/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -96,105 +103,119 @@
   
   <url>
     <loc>http://marocchino.net/tags/ruby/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/rspec/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/bdd/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/bash/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/fish/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/elixir/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/exunit/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/test/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/elm/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/mix/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/rails/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/vim/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/shell/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/hexo/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://marocchino.net/tags/github-page/</loc>
-    <lastmod>2021-01-27</lastmod>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://marocchino.net/tags/macos/</loc>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://marocchino.net/tags/homebrew/</loc>
+    <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
